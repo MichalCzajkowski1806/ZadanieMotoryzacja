@@ -1,0 +1,12 @@
+D:\MC\C#\Lab3\Zadanie A\Motoryzacja\obj\Debug\Motoryzacja.csproj.AssemblyReference.cache
+D:\MC\C#\Lab3\Zadanie A\Motoryzacja\obj\Debug\Motoryzacja.csproj.CoreCompileInputs.cache
+D:\MC\C#\Lab3\Zadanie A\Motoryzacja\bin\Debug\Motoryzacja.dll
+D:\MC\C#\Lab3\Zadanie A\Motoryzacja\bin\Debug\Motoryzacja.pdb
+D:\MC\C#\Lab3\Zadanie A\Motoryzacja\obj\Debug\Motoryzacja.dll
+D:\MC\C#\Lab3\Zadanie A\Motoryzacja\obj\Debug\Motoryzacja.pdb
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Motoryzacja\bin\Debug\Motoryzacja.dll
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Motoryzacja\bin\Debug\Motoryzacja.pdb
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Motoryzacja\obj\Debug\Motoryzacja.csproj.AssemblyReference.cache
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Motoryzacja\obj\Debug\Motoryzacja.csproj.CoreCompileInputs.cache
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Motoryzacja\obj\Debug\Motoryzacja.dll
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Motoryzacja\obj\Debug\Motoryzacja.pdb

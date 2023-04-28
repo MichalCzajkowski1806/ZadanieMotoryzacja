@@ -1,0 +1,37 @@
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.csproj.AssemblyReference.cache
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\MainWindow.g.cs
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\App.g.cs
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A_MarkupCompile.cache
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A_MarkupCompile.lref
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\bin\Debug\Zadanie A.exe.config
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\bin\Debug\Zadanie A.exe
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\bin\Debug\Zadanie A.pdb
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\bin\Debug\Motoryzacja.dll
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\bin\Debug\Motoryzacja.pdb
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\MainWindow.baml
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.g.resources
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie_A.Properties.Resources.resources
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.csproj.GenerateResource.cache
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.csproj.CoreCompileInputs.cache
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.csproj.CopyComplete
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.exe
+D:\MC\C#\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.pdb
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\bin\Debug\Zadanie A.exe.config
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\bin\Debug\Zadanie A.exe
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\bin\Debug\Zadanie A.pdb
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\bin\Debug\Motoryzacja.dll
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\bin\Debug\Motoryzacja.pdb
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.csproj.AssemblyReference.cache
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\MainWindow.g.cs
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\App.g.cs
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A_MarkupCompile.cache
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A_MarkupCompile.lref
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\MainWindow.baml
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.g.resources
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie_A.Properties.Resources.resources
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.csproj.GenerateResource.cache
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.csproj.CoreCompileInputs.cache
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.csproj.CopyComplete
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.exe
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.pdb
+D:\Michał\Studia\Semestr IV\JWP\C# lab 3\Lab3\Zadanie A\Zadanie A\obj\Debug\Zadanie A.csproj.SuggestedBindingRedirects.cache

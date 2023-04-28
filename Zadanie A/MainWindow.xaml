@@ -1,0 +1,16 @@
+﻿<Window x:Class="Zadanie_A.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie_A"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnTest" Content="Zadanie A" HorizontalAlignment="Left" Margin="90,59,0,0" VerticalAlignment="Top" Width="75" Click="btnTest_Click"/>
+        <ListBox x:Name="lstPojazdy" HorizontalAlignment="Left" Height="182" Margin="10,227,0,0" VerticalAlignment="Top" Width="593"/>
+        <Button x:Name="btnExtension" Content="Extension" HorizontalAlignment="Left" Margin="221,59,0,0" VerticalAlignment="Top" Width="75" Click="btnExtension_Click"/>
+        <ListBox x:Name="lstHistoriaNazw" HorizontalAlignment="Left" Height="113" Margin="10,99,0,0" VerticalAlignment="Top" Width="593"/>
+
+    </Grid>
+</Window>
